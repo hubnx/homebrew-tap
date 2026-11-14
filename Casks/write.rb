@@ -1,6 +1,6 @@
 cask "write" do
-  version "0.1.9"
-  sha256 "c12131b939420dc5f40fd40e070032a23ff201d4c2799b3a4eb3db4eb563e5b4"
+  version "0.2.0"
+  sha256 "f70d88b66cf63729f5118c1ae84428e17ef6ab810b2050e45a529de7ef47b123"
 
   url "https://media.hubnx.com/desktop/#{version}/Write-#{version}.dmg"
   name "Write by Hub Nexus"
